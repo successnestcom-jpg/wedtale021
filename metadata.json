@@ -1,0 +1,8 @@
+{
+  "name": "Tamil Wedding Template ",
+  "description": "Interactive 3D animated wedding invitation website with traditional \u0026 modern themes, wax seal gatefold card, ceremony timelines, live petal showers, guest shareable links, and QR code scanner.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
